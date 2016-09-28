@@ -1,5 +1,8 @@
 # AssetGraph
 
+中文介绍
+http://forum.china.unity3d.com/thread-20959-1-1.html
+
 AssetGraph is a visual toolset lets you configure and create Unity's AssetBundles. It is intended to create rule-based configuration in visual form to create and manage efficient workflow around AssetBundle generation. 
 
 
